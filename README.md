@@ -27,8 +27,8 @@
 
 <ol>
 <li>Binary Tree - BFS, DFS - TODO</li>
-<li>Binary Search Tree - TODO</li>
-<li>Self-Balancing Binary Search Tree (AVL) - TODO</li>
+<li>Binary Search Tree</li>
+<li>Self-Balancing Binary Search Tree (AVL)</li>
 <li>Red - Black Tree - TODO</li>
 <li>Trie - TODO</li>
 </ol>
