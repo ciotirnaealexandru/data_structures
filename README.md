@@ -36,7 +36,7 @@
 ## V. Heaps
 
 <ol>
-<li>Min-Heap / Max-heap - Heapsort - TODO</li>
+<li>Min-Heap / Max-heap - Heapsort</li>
 </ol>
 
 ## VI. Graphs
