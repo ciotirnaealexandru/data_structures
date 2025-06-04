@@ -19,7 +19,6 @@
 
 <ol>
 <li>Queue</li>
-<li>Priority Queue - TODO</li>
 <li>Deque - TODO</li>
 </ol>
 
@@ -36,15 +35,15 @@
 ## V. Heaps
 
 <ol>
-<li>Min-Heap / Max-heap - Heapsort</li>
+<li>Min-Heap / Max-heap - Heapsort, Priority Queue</li>
 </ol>
 
 ## VI. Graphs
 
 <ol>
-<li>Unordered Graph - BFS, DFS, Connected Components, Spanning Tree - TODO</li>
-<li>Oriented Graph - Strongly Connected Components (Kosaraju) - TODO</li>
-<li>Weighted Graph - Minimum Spanning Tree (Kruskal / Prim), Dijkstra, Ford-Fulkerson, Floyd - TODO
+<li>Unordered Graph - BFS, DFS, Connected Components</li>
+<li>Oriented Graph - Strongly Connected Components (Kosaraju)</li>
+<li>Weighted Graph - Dijkstra, Floyd, Minimum Spanning Tree (Kruskal / Prim) - TODO
 </ol>
 
 ## VI. Hashmaps
